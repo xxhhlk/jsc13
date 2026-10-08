@@ -1,0 +1,11 @@
+# Normalise line endings on check-in
+* text=auto
+
+# These run on iOS - they must stay LF
+*.x         text eol=lf
+*.plist     text eol=lf
+*.sh        text eol=lf
+Makefile    text eol=lf
+control     text eol=lf
+*.md        text eol=lf
+LICENSE     text eol=lf

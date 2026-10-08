@@ -1,0 +1,12 @@
+# Build artefacts
+.theos/
+packages/
+*.deb
+*.dylib
+*.dSYM/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

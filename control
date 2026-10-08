@@ -1,0 +1,9 @@
+Package: com.xxhhlk.jsc13
+Name: jsc13
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: JavaScriptCore hardening for the WebContent process (iOS 13, Level 2)
+Maintainer: xxhhlk
+Author: xxhhlk
+Section: Tweaks
+Depends: mobilesubstrate
